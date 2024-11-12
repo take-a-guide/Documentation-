@@ -12,6 +12,9 @@ Take-A-Guide is a platform that connects tour guides with travelers who have div
 - **Advertise Your Tours**: Set prices and connect with interested customers.
 - **Share Your Knowledge**: Showcase your expertise and attract more tourists.
 
+## Canvas Arc42
+https://miro.com/app/board/uXjVLR1380s=/?share_link_id=30371790817
+
 # TDE 03
 
 ## Evidência de todos os recursos 
