@@ -13,3 +13,17 @@ Take-A-Guide is a platform that connects tour guides with travelers who have div
 - **Share Your Knowledge**: Showcase your expertise and attract more tourists.
 
 # TDE 03
+
+## Evidência de todos os recursos 
+![image](https://github.com/user-attachments/assets/17fe6b33-58c7-4111-8bc1-c0218c008085)
+___________________________________________________________________________________________________________________________________________________________
+## Api Gateway
+![image](https://github.com/user-attachments/assets/9482d8b3-6df9-4e7d-bee8-0e76ee954f2e)
+
+## BFF 
+![image](https://github.com/user-attachments/assets/8c9fa97a-e69a-4f97-b04e-9f0b168ac823)
+
+## 
+
+
+
