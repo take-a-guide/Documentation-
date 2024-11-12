@@ -23,7 +23,34 @@ ________________________________________________________________________________
 ## BFF 
 ![image](https://github.com/user-attachments/assets/8c9fa97a-e69a-4f97-b04e-9f0b168ac823)
 
-## 
+## Serviço (User Service)
+![image](https://github.com/user-attachments/assets/c0fe5d97-9490-4442-97b5-484e7c82f08d)
+
+## Banco Azure SQL 
+![image](https://github.com/user-attachments/assets/30ae8e90-4ad3-41a7-aafe-bbff4b20f172)
+
+## Azure Function 
+![image](https://github.com/user-attachments/assets/a6f7dfb8-1191-480a-a87a-b874309b9be6)
+
+### Cadastra Evento 
+![image](https://github.com/user-attachments/assets/29017a66-1978-48ff-8ad2-a24d9f403ae3)
+
+### Recebe a Mensagem 
+![image](https://github.com/user-attachments/assets/6cec92ce-d84e-42d1-b108-a078de3986e4)
+
+## Banco CosmoDB
+![image](https://github.com/user-attachments/assets/bae14935-448a-43b0-849d-83f7c95831d3)
+
+## Service Bus
+![image](https://github.com/user-attachments/assets/1ec1a1e9-ad2d-4aac-b6bd-149169f40ea9)
+
+
+
+
+
+
+
+
 
 
 
