@@ -23,8 +23,12 @@ ________________________________________________________________________________
 ## BFF 
 ![image](https://github.com/user-attachments/assets/8c9fa97a-e69a-4f97-b04e-9f0b168ac823)
 
+Link: https://bff-container-app.greenbush-ca0d2b09.eastus.azurecontainerapps.io/
+
 ## Serviço (User Service)
 ![image](https://github.com/user-attachments/assets/c0fe5d97-9490-4442-97b5-484e7c82f08d)
+
+Link: https://user-service-container-app.greenbush-ca0d2b09.eastus.azurecontainerapps.io/
 
 ## Banco Azure SQL 
 ![image](https://github.com/user-attachments/assets/30ae8e90-4ad3-41a7-aafe-bbff4b20f172)
