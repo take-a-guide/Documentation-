@@ -1,0 +1,20 @@
+[![](https://mermaid.ink/img/pako:eNptUsFqHDEM_RXh0xYmpYee9pakpccuTXophqLMaDamY2tq2SGbJR9TcggE-hXzY5U9k0029CbJ0ntPT96bljsya3P-8ZxDottkQ3JpILjYSSIPSxU6h9uIHnqOcIm_6OT05Et2HdnwWRviGJ3QzzPOocO4W119aMCa132wGTDpsLfmHext2FAUDquUdTBh7Z5Da0ryXfL0JzqG35ngKkuLsM0OBXRg-ivJtSwwYkQbxoqEg7vDCJIR6FZLbnoKrUNQ5huVTv69Eh9oC1ahUWkIlwfImXsTuXciroBWfu4pUksgFG_c9MhiA8lICl9IO1WiRtVNPFdRwALLZjLzzm6uiglYXKjsL9mxpebNY9HQcqBW3QnPuPAfRxrQzb1LLnQMurQew1NIDASvXJoepweGcrrEOS4C7234RsPLPY6VntUL0IIJda4pmiQPCQu4OlYhq6aKWOBmn4-xvr51s9xoca8OApjGeF0EXac_c18q1qRr8mrNWsOOelRea1S2tmJOfLELrVmnmKkxkfP22qx7HESzPHaY6NP8fQ_VEcMP5uf8_h_kTxzC?type=png)](https://mermaid.live/edit#pako:eNptUsFqHDEM_RXh0xYmpYee9pakpccuTXophqLMaDamY2tq2SGbJR9TcggE-hXzY5U9k0029CbJ0ntPT96bljsya3P-8ZxDottkQ3JpILjYSSIPSxU6h9uIHnqOcIm_6OT05Et2HdnwWRviGJ3QzzPOocO4W119aMCa132wGTDpsLfmHext2FAUDquUdTBh7Z5Da0ryXfL0JzqG35ngKkuLsM0OBXRg-ivJtSwwYkQbxoqEg7vDCJIR6FZLbnoKrUNQ5huVTv69Eh9oC1ahUWkIlwfImXsTuXciroBWfu4pUksgFG_c9MhiA8lICl9IO1WiRtVNPFdRwALLZjLzzm6uiglYXKjsL9mxpebNY9HQcqBW3QnPuPAfRxrQzb1LLnQMurQew1NIDASvXJoepweGcrrEOS4C7234RsPLPY6VntUL0IIJda4pmiQPCQu4OlYhq6aKWOBmn4-xvr51s9xoca8OApjGeF0EXac_c18q1qRr8mrNWsOOelRea1S2tmJOfLELrVmnmKkxkfP22qx7HESzPHaY6NP8fQ_VEcMP5uf8_h_kTxzC)
+
+C4Context
+
+title System Context diagram for Take-A-Guide
+
+Enterprise_Boundary(b0, "Take-A-Guide Platform") {
+
+Person(turista, "Turista", "Usuário que busca guias turísticos para personalizar sua experiência de viagem.")
+
+Person(guia, "Guia Turístico", "Profissional que oferece serviços especializados em turismo para os turistas.")
+
+
+
+System(Plataforma, "Plataforma Take-A-Guide", "Plataforma que conecta turistas a guias turísticos, permitindo agendamento e personalização de tours.")
+
+}
+
+Rel(turista, Plataforma, "Busca e agenda tours, consulta perfis de guias")
+Rel(guia, Plataforma, "Oferece serviços de turismo")
